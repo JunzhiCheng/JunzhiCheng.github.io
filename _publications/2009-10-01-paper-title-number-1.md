@@ -7,7 +7,6 @@ excerpt: 'Ziyan Zhao,**Junzhi Cheng**, Jiaqi Liang, Shixin Liu, MengChu Zhou, Yu
 date: 2024-03-22
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/10478104'
-citation: 
 ---
 
 <!-- [PDF](https://ieeexplore.ieee.org/document/10478104) -->
