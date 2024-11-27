@@ -14,15 +14,15 @@ name                     : &name "Junzhi Cheng"
 description              : &description "personal description"
 url                      : https://junzhicheng.github.io # the base hostname & protocol for your site e.g. "https://junzhicheng.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "junzhicheng/junzhicheng.github.io"
+repository               : "JunzhiCheng/JunzhiCheng.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Junzhi Cheng"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Junzhi Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Student"
   location         : "Shenyang"
