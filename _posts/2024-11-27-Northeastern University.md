@@ -5,4 +5,4 @@ permalink: /posts/2024/11/Northeastern University/
 tags:
   - cool posts
 ---
-<br/><img src='/images/neu.png'>
+<img src='/images/neu.png'>
